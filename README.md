@@ -1,6 +1,6 @@
 # Quiz Calculator Prototype
 
-This is a code bundle for Quiz Calculator Prototype. The original project is available at https://www.figma.com/design/1tenfAa97QNdzafDeckhHK/Quiz-Calculator-Prototype.
+This is a code bundle for Quiz Calculator Prototype. The original project is available at [https://www.figma.com/design/1tenfAa97QNdzafDeckhHK/Quiz-Calculator-Prototype.](https://registraai2026.web.app)
 
 ## Running the code
 
